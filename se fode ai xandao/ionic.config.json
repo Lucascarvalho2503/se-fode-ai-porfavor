@@ -1,0 +1,7 @@
+{
+  "name": "Lista BD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
